@@ -1,0 +1,75 @@
+[11:39:26.486] Connected...
+[11:39:33.474] Part Number - [22 F1 87]
+[11:39:33.503] Part Number - Positive Response [62 F1 87 39 35 35 36 30 42 56 34 30 30]
+[11:39:33.517] Delay 50ms
+[11:39:33.565] Manufacturing Date - [22 F1 8B]
+[11:39:33.575] Manufacturing Date - Positive Response [62 F1 8B 20 24 05 15]
+[11:39:33.586] Delay 50ms
+[11:39:33.634] H/W Version - [22 F1 93]
+[11:39:33.649] H/W Version - Positive Response [62 F1 93 42 2E 30 30]
+[11:39:33.656] Delay 50ms
+[11:39:33.706] CANDB Version - [22 F1 00]
+[11:39:33.717] CANDB Version - Positive Response [62 F1 00 30 2E 31 30]
+[11:39:33.723] Delay 50ms
+[11:39:33.776] S/W Int Version - [22 F1 89]
+[11:39:33.803] S/W Int Version - Positive Response [62 F1 89 43 2E 30 30 33 32 00]
+[11:39:33.810] Delay 50ms
+[11:39:33.859] Charger Version - [22 F1 01]
+[11:39:33.886] Charger Version - Positive Response [62 F1 01 31 30 37 33 31]
+[11:39:33.896] Delay 50ms
+[11:42:22.842] Start Flashing.
+[11:42:22.844] Pre Process
+[11:42:23.067] Received data is not same with expected data list file.
+[11:42:23.071] Expected data file :Script/Compare/PartNumberList_IBU_BCMType.txt
+[11:42:23.074] Received data :
+[11:42:23.076] Flashing has been failed !!!
+[11:42:23.082] Flashing elapsed time=00:00:00.240
+[11:42:23.085] Total Block Count = 0
+[11:42:30.432] Part Number - [22 F1 87]
+[11:42:30.469] Part Number - Positive Response [62 F1 87 39 35 35 36 30 42 56 34 30 30]
+[11:42:30.487] Delay 50ms
+[11:42:30.534] Manufacturing Date - [22 F1 8B]
+[11:42:30.549] Manufacturing Date - Positive Response [62 F1 8B 20 24 05 15]
+[11:42:30.555] Delay 50ms
+[11:42:30.606] H/W Version - [22 F1 93]
+[11:42:30.613] H/W Version - Positive Response [62 F1 93 42 2E 30 30]
+[11:42:30.617] Delay 50ms
+[11:42:30.662] CANDB Version - [22 F1 00]
+[11:42:30.675] CANDB Version - Positive Response [62 F1 00 30 2E 31 30]
+[11:42:30.680] Delay 50ms
+[11:42:30.732] S/W Int Version - [22 F1 89]
+[11:42:30.745] S/W Int Version - Positive Response [62 F1 89 43 2E 30 30 33 32 00]
+[11:42:30.759] Delay 50ms
+[11:42:30.805] Charger Version - [22 F1 01]
+[11:42:30.830] Charger Version - Positive Response [62 F1 01 31 30 37 33 31]
+[11:42:30.838] Delay 50ms
+[11:42:46.878] Start Flashing.
+[11:42:46.881] Skipped : Pre Process
+[11:42:46.896] PreProgramming
+[11:42:50.700] Hex programming
+[11:42:50.714] RequestDownload Address=0x10000, Length=196608(0x30000)
+[11:42:50.727] TransferData Address=0x10000, Length=196608(0x30000)
+[11:43:33.247] TransferData Address=0x40000, Length=264(0x108)
+[11:43:33.335] Post Programming
+[11:43:35.555] Skipped : Post Process
+[11:43:35.567] Flashing has been successfully done.
+[11:43:35.571] Flashing elapsed time=00:00:48.693
+[11:43:35.574] Total Block Count = 769
+[11:43:39.742] Part Number - [22 F1 87]
+[11:43:39.764] Part Number - Positive Response [62 F1 87 39 35 35 36 30 42 56 34 30 30]
+[11:43:39.775] Delay 50ms
+[11:43:39.820] Manufacturing Date - [22 F1 8B]
+[11:43:39.836] Manufacturing Date - Positive Response [62 F1 8B 20 24 05 15]
+[11:43:39.842] Delay 50ms
+[11:43:39.892] H/W Version - [22 F1 93]
+[11:43:39.903] H/W Version - Positive Response [62 F1 93 42 2E 30 30]
+[11:43:39.908] Delay 50ms
+[11:43:39.955] CANDB Version - [22 F1 00]
+[11:43:39.969] CANDB Version - Positive Response [62 F1 00 30 2E 31 30]
+[11:43:39.975] Delay 50ms
+[11:43:40.028] S/W Int Version - [22 F1 89]
+[11:43:40.044] S/W Int Version - Positive Response [62 F1 89 42 2E 30 31 33 30 00]
+[11:43:40.061] Delay 50ms
+[11:43:40.109] Charger Version - [22 F1 01]
+[11:43:40.140] Charger Version - Positive Response [62 F1 01 31 30 37 33 30]
+[11:43:40.147] Delay 50ms
