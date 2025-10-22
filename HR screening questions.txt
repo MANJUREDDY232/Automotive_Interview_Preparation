@@ -1,0 +1,38 @@
+HR screening questions
+
+1.	Tell me a brief introduction about yourself ?
+Sure.
+I’m Manjunath, a HiL Validation and Verification Engineer with over 4 years of experience in Automotive ECU testing, specializing in Body Control Module (BCM) and Smart Key (SMK) systems.
+I have strong hands-on experience with Vector tools like CANoe, CANalyzer, VT System, and vTESTstudio, and good knowledge of UDS diagnostics, CAN/LIN protocols, and CAPL scripting.
+I’ve worked on HiL automation, regression testing, and field issue analysis for OEMs including Hyundai, KIA, and Volvo.
+I’m passionate about improving ECU quality through automation and systematic validation processes.
+
+2.	What is your role and responsibilities?
+I work as a HiL Validation Engineer, mainly responsible for ECU validation using Vector tools. My role covers requirement analysis, HiL setup and automation using CAPL, executing manual and automated tests, analyzing CAN logs, reporting defects, and supporting OEMs for release validation and field issues.
+
+3.	What is your current company name?
+I’m currently working at Mobase Electronics India Pvt. Ltd., Hyderabad.
+It’s an automotive electronics company where I’ve been working since January 2021, mainly focusing on HiL Validation and Verification for Body Domain ECUs such as BCM and Smart Key (SMK).
+
+4.	How many years of experience do you have in Automotive?
+I have over 4 years of experience in the Automotive domain, primarily focused on ECU Validation and Verification using HiL setups, CANoe, and Vector tools for OEMs like Hyundai, KIA, and Mitsubishi FUSO.
+
+
+5.	How many years of experience do you have in HIL Setup?
+I have around 4 years of hands-on experience working on HiL bench setup, configuration, and test execution using Vector VT System and CANoe.
+I’ve been involved in HiL model configuration, signal mapping, restbus simulation, automation, and functional validation of ECUs.
+
+6.	How many years of experience do you have in CAPL Scripting?
+I have about 3 years of experience in CAPL scripting for test automation and diagnostic services.
+I use CAPL for automating regression tests, implementing UDS service tests, and creating node simulation and fault injection scripts.
+
+7.	What is your current salary? and how much are you expecting?
+Currently, my CTC is ₹12.25 LPA, and I’m looking for an opportunity that offers ₹15 to 15.5 l LPA, depending on the role and responsibilities.
+More than the package, I’m looking for a technically challenging role and long-term growth in HiL validation and automation.
+(Tip: You can say “I’m open for discussion based on company standards” if you want flexibility.)
+
+8.	How many days' notice period?
+	My current notice period is [e.g., 30 days or 60 days], and I can join earlier if required, depending on the project handover situation.
+	My current notice period is 60 days, but I’m flexible and can try to join earlier if required.
+I’ll coordinate with my current project manager to ensure a smooth handover and early release if possible.
+
