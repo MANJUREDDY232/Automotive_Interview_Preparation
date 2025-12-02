@@ -1,0 +1,9 @@
+“Thank you for the opportunity. My name is Manjunatha Reddy, and I’ve been working as a HIL Validation & Verification Engineer for just over five years in the automotive domain. My core strengths include HIL testing, in-vehicle testing, ECU validation, automation, and a strong knowledge of CAN, LIN, and CAN-FD diagnostics.
+
+I started my career in 2021 at Mobase Electronics, where I’ve been involved in validating automotive ECUs both on HIL benches and in vehicle environments. My key project has been the Body Domain Control (BDC) ECU for Hyundai and Kia, which integrates both BCM and SMK functionalities into a single controller.
+
+In this role, I’ve validated a wide range of comfort, convenience, security, and safety-related features. My responsibilities include designing and executing HIL test cases, developing CAPL automation scripts, performing functional and fault injection testing, and ensuring robust diagnostic validation.
+
+I have strong hands-on experience with Vector tools like the VT System, vTESTstudio, and I’m confident in analyzing logs in CANoe. I also regularly use tools like the oscilloscope and multimeter for debugging. As part of my achievements, I received an On-the-Spot Award in 2023, and I also worked onsite in South Korea to support HIL bench setup and BDC feature validation.
+
+Currently, I’m looking for a role where I can apply my skills in HIL testing, automation, and ECU validation and contribute to a strong engineering team.
